@@ -1,14 +1,14 @@
 # project-prep
 ## Team Agreement 
-### Members: Aaron Clark, Jon Stillman, Jennifer Sung
+### Members: Aaron Clark, Jon Stillson, Jennifer Sung
 
 ## Cooperation Plan
 * What are the key strengths of each person on the team?
-   * Jennifer’s overall strength is backend development. Aaron’s overall strength is in project management, and programming in general. Jon’s overall strength
+   * Jennifer’s overall strength is backend development. Aaron’s overall strength is in project management, and programming in general. Jon’s overall strength is researching various approaches to completing the task, and looking up various resources to find solutions to problems. 
 * How can you best utilize these strengths in the execution of your project?
-   * Jennifer: I can help with overall design of the project and the wireframe portion for the project and backend portion. Aaron strength is coordinating project and helping lead the project. In addition, and help write and review the functionality for the app. Jon:
+   * Jennifer: I can help with overall design of the project and the wireframe portion for the project and backend portion. Aaron strength is coordinating project and helping lead the project. In addition, and help write and review the functionality for the app. Jon will help with finding resources to help complete the various task or things that may be useful.
 * In which professional competencies do you each want to develop greater strength?
-   * Jennifer: I would like to get better at knowing the flow of react. And get better at pair programming as well. Aaron would like to improve his teamwork and collaboration skills. Jon:
+   * Jennifer: I would like to get better at knowing the flow of react. And get better at pair programming as well. Aaron would like to improve his teamwork and collaboration skills. Jon wants to improve on teamwork in group projects.
 * Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
    * We propose that we divide the daily task to each person of the group. IN which, we work independently. But, we would stay on Remo so we can rely on each other if needed. We would also do review code before merging. Thus, we would explain our code before merging our code into Github.
 
