@@ -1,7 +1,6 @@
 # project-prep
 ## Team Agreement
 
-## Project: Prep #1: 
 ## Cooperation Plan
 * What are the key strengths of each person on the team?
    * Jennifer’s overall strength is backend development. Aaron’s overall strength is in project management, and programming in general. Jon’s overall strength
