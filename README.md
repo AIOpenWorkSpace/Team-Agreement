@@ -1,5 +1,6 @@
 # project-prep
-## Team Agreement
+## Team Agreement 
+### Members: Aaron Clark, Jon Stillman, Jennifer Sung
 
 ## Cooperation Plan
 * What are the key strengths of each person on the team?
