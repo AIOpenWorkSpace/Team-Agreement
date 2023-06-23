@@ -46,10 +46,10 @@
 * How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
    * We will post on our group slack channel of any assignments/tasks that need to be done and talk as a group in remo. We will also use Github-projects or trello to help us keep track of any assignments we need to complete.
 * What project management tool will be used?
-   * We will be using Github projects for our project management tool.
+   * We will be using trello for project management tool.
 Git Process
 * What components of your project will live on GitHub?
-   * The components of our project that will live on Github organization. All files, code, and our Git-hub project management tool. Maybe use Trello
+   * The components of our project that will live on Github organization.
 * How will you share the repository with your teammates?
    *  The repository will be shared through our organization.
 * What is your Git flow?
